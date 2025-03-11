@@ -1,4 +1,4 @@
-# Joseph Bidias Portfolio
+# Joseph Bidias Portofolio
 
 ![Firefox_Screenshot_2025-03-11T08-09-57 068Z](https://github.com/user-attachments/assets/832c1c67-f723-4115-8b04-c9c770fa5e9c)
 
