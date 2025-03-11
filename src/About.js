@@ -7,7 +7,7 @@ const About = () => (
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">Professional Summary</h2>
         <p className="text-gray-700">
-          I am an aspirant software developer with a strong foundation in Python, JavaScript, and software engineering principles. I thrive on collaborative problem-solving and building user-centric applications while continuously learning and evolving.
+          I am an aspirant software developer with a strong foundation in Python, JavaScript, and software engineering principles. I thrive on collaborative problem-solving and building user-centric applications.
         </p>
       </section>
       <section className="mb-8">
@@ -24,15 +24,15 @@ const About = () => (
         <ul className="list-disc list-inside text-gray-700 mb-4">
           <li>Developed interactive dashboards using Python and Power BI.</li>
           <li>Managed end-to-end software deployment and collaborated with engineers.</li>
-          <li>Conducted data-driven analysis to optimize workflows and decision-making.</li>
+          <li>Conducted data-driven analysis to optimize workflows.</li>
         </ul>
         <p className="text-gray-700 mb-2">
           <strong>Java Software Engineering Apprentice</strong> at Dallas College/GenerationUSA, Remote (Jan 2023 – Jun 2023)
         </p>
         <ul className="list-disc list-inside text-gray-700">
           <li>Built full-stack applications using React and FastAPI.</li>
-          <li>Developed RESTful APIs and optimized backend data processing.</li>
-          <li>Designed cloud-based architectures with AWS for enhanced scalability.</li>
+          <li>Developed RESTful APIs and optimized backend processing.</li>
+          <li>Designed cloud-based architectures with AWS for scalability.</li>
         </ul>
       </section>
       <section>

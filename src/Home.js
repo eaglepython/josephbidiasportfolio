@@ -6,7 +6,7 @@ const Home = () => (
     <h1 className="text-6xl font-bold mb-4">Joseph Bidias</h1>
     <p className="text-2xl mb-8">Aspirant Software Developer</p>
     <p className="text-lg text-center mb-12 max-w-2xl">
-      Passionate about creating user-centric applications and solving complex challenges. I am committed to continuous learning and delivering high-impact projects.
+      Passionate about creating user-centric applications, solving complex challenges, and continuously learning.
     </p>
     <div className="flex space-x-4">
       <Link
